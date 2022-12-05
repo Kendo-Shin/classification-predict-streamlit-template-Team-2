@@ -1,12 +1,12 @@
 ###  How it works
 
-This process requires the user to input text
+This app requires the user to input text
 (ideally a tweet relating to climate change), and will
 classify it according to whether or not they believe in
-climate change.Below you will find information about the data source
-and a brief data description. You can have a look at word clouds and
-other general EDA on the EDA page, and make your predictions on the
-prediction page that you can navigate to in the sidebar.
+climate change. Below you will find information about the data source
+and a brief data description. Click on the checkbox below to `show the raw data`. You can have a look at more information
+on the prediction models available on the ``Model Information`` page, and make your choice of model to use on the
+``Prediction`` page that you can navigate to in the sidebar.
 
 ###  Data description as per source
 
@@ -16,7 +16,7 @@ This dataset aggregates tweets pertaining to climate change collected between Ap
 
 Each tweet is labelled as one of the following classes:
 
-- 2(News): the tweet links to factual news about climate change
-- 1(Pro): the tweet supports the belief of man-made climate change
-- 0(Neutral): the tweet neither supports nor refutes the belief of man-made climate change
-- -1(Anti): the tweet does not believe in man-made climate change
+- 2 (News): the tweet links to factual news about climate change
+- 1 (Pro): the tweet supports the belief of man-made climate change
+- 0 (Neutral): the tweet neither supports nor refutes the belief of man-made climate change
+- -1 (Anti): the tweet does not believe in man-made climate change
