@@ -5,8 +5,8 @@ This app requires the user to input text
 classify it according to whether or not they believe in
 climate change. Below you will find information about the data source
 and a brief data description. Click on the checkbox below to `show the raw data`. You can have a look at more information
-on the prediction models available on the ``Model Information`` page, and make your choice of model to use on the
-``Prediction`` page that you can navigate to in the sidebar.
+on the data used in training our models on the ``EDA`` page. Learn more about the prediction models available on the ``Model Information`` page, and make your choice of model to use on the
+``Prediction`` page that you can navigate to in the sidebar. To learn more about ```DataTech```, the brain behind the app, check out the ``About Us`` page.
 
 ###  Data description as per source
 
